@@ -1,4 +1,4 @@
-### :heavy_check_mark: Kotlin 기반 Spring Cloud Gatway 구현 
+### :heavy_check_mark: Kotlin 기반 Spring Cloud Gateway 
 <br>
 
 - 3개의 마이크로 서비스 기반 SCG, Eureka, Config Server 구현
