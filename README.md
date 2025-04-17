@@ -1,6 +1,8 @@
 # 
 
-### Spring Cloud?
+ <details>
+     
+<summary> Spring Cloud? </summary>
 
 - MSA 관리를 용이하게 해주는 스프링 기반 도구 모음
 - 주요모듈
@@ -10,8 +12,12 @@
     - Feign : 서비스간 통신을 HTTP + 인터페이스 형식으로 간편하게
     - Circuit Breaker : 장애 발생시 우회 /차단 처리
     - Bus / Stream : 메시지 기반의 통신
+ 
+</details>
 
-### Spring Cloud Gateway ?
+ <details>
+
+<summary > Spring Cloud Gateway? </summary>
 
 - MSA 구조에서 클라이언트의 모든 요청을 처음 받는 관문 서버
 - Spring 기반 프록시 서버
@@ -20,6 +26,8 @@
     - 로깅/모니터링 : 요청 정보 기록, 통계 수집
     - 필터처리 : 공통 로직 삽입
     - 속도제한/리미터 : 과도한 트래픽 제어
+ 
+</details>
 
 ### ✅ 구현 내용
 
